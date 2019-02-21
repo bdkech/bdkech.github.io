@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This customized Jekyll theme is made by [Masha Safina](http://masha.space/) for personal blogging purposes.
+I'm a wild and crazy informaticist, always looking for the next dataset.
 
-Theme is available for use at [Github](https://github.com/mashlo/captains-log) and has few color schemes options.
+[See more about me on LinkedIn](https://www.linkedin.com/in/kechavarzi)
 
-Placeholder copy is generated with [Star Trek Ipsum](http://vlad-saling.github.io/star-trek-ipsum/).
