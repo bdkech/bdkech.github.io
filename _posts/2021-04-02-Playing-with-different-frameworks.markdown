@@ -4,13 +4,15 @@ title:  "Playing with different frameworks"
 date:   2021-04-02 10:20:59 -0500
 ---
 
-* Objective
-    * Background and a walk down memory lane
-    * The plan
-* The trials
-    * Pachyderm
-    * Kubeflow
-* Thoughts
+* Table of Contents
+    * Objective
+        * Background and a walk down memory lane
+        * The plan
+    * The trials
+        * Pachyderm
+        * Kubeflow
+    * Thoughts
+{:toc}
 
 # Objective
 ## Background and a walk down memory lane
@@ -80,6 +82,7 @@ I think I get the idea of how this is working…I’m not going to hunt down thi
 
 Getting KubeFlow up and running took more time than I had anticipated.  It seems with each version there is a slightly different tweak I always have to do after deployments.  Argo will have to be on the examining table another time.
 
+![GLORY](/assets/04-02-post/success.png)
 
 # Thoughts
 
